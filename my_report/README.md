@@ -30,6 +30,7 @@ https://user-images.githubusercontent.com/101745590/227525398-08afb534-b1c2-4dbf
 ![Στιγμιότυπο οθόνης (82)](https://user-images.githubusercontent.com/101745590/227526018-824c5e72-9a95-44a0-bf72-2698aea86aae.png)
 <p>Στο τρίτο κομμάτι : Διαμορφώθηκαν σειρές Animation στο Timeline όπου στα object γινόταν Animation Track. Ο συνδυασμός τους δείχνει μια μικρή σκηνή στην πόλη το απόγευμα.</p>
 Θα προστεθεί εικόνα+. Το βίντεο βρίσκεται στα Dailies. 
+<p></p>
 # 2nd Deliverable
 
 
