@@ -58,9 +58,14 @@
 
 Καπνός από κάδους ο οποίος είναι particle.
 ![image](https://user-images.githubusercontent.com/101745590/236652409-8e6357f5-92b9-431a-bdc7-e21fdab65e7e.png)
+
 Για τα πυροτεχνήματα δημιουργήθηκαν όπως τα sparks στο πρώτο σκέλος με πολλές αλλαγές όμως όπως φαίνονται στο screenshot.
 ![image](https://user-images.githubusercontent.com/101745590/236652485-97c17e72-14ab-4a4f-b322-dac67cdf2877.png)
 ![image](https://user-images.githubusercontent.com/101745590/236652499-6c327470-754f-4100-94ef-51dc176b3968.png)
+
+Με αποτέλεσμα τα πυροτεχνήματα.
+![image](https://user-images.githubusercontent.com/101745590/236652679-7da3fda8-a476-4fde-a1d7-7a868e370d71.png)
+
 Ακόμα , κατέβασα τέσσερις ήχους(σκύλου,γάτας,background sound και πυροτεχνημάτων από envato elements) και μπήκαν στα κατάλληλα frames στο Timeframe για να ταιριάζει στην εξέλιξη όπως φαίνεται παρακάτω. Το background sound δεν μπήκε στο timeframe καθώς μπαίνει σαν audio source.
 ![image](https://user-images.githubusercontent.com/101745590/236652544-d7b14fd0-d985-49b2-b3aa-3bc5bb5fd5d8.png)
 
