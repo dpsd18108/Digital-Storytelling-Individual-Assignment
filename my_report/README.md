@@ -33,25 +33,34 @@
 <p></p>
 
 # 2nd Deliverable
+
 # Unit 5
 Όσον αφορά το unit 5 ακολούθησα τα εξής βήματα: 
+
 Στο πρώτος σκέλος έκανα το frame των καμερών έτσι ώστε να δημιουργηθούν τα σημεία που θα φαίνονται τα clips ανά frame. 
 ![image](https://user-images.githubusercontent.com/101745590/236651610-6ee49e4a-b20e-4e6d-944e-d866ef983d6f.png)
+
 Στο δεύτερο σκέλος ασχολήθηκα με τα frame shots και με το cinemachine.
+
 Στο τρίτο σκέλος επέλεξα που θα μπουν τα virtual cameras και τα animation track όπου έβαλα τα keys στα κατάλληλα points για να υπάρχει η σωστή εξέλιξη του μικρού κλιπ. 
 ![image](https://user-images.githubusercontent.com/101745590/236651679-dc619273-b997-41a9-8fa1-739f7eb2eac4.png)
+
 # Unit 6
 Όσον αφορά το unit 6 ακολούθησα τα εξής βήματα: 
+
 Στο πρώτο σκέλος τοποθέτησα τα διάφορα lights που χωρίζονταν σε spotlights και point lights. Έγινε ακόμα το φως με την κολώνα ως prefab μαζί και συνοδεύει το φως του την πορεία του σκύλου και γάτας. Τέλος μπήκαν soft shadows στο κουτί με τη κυρία.
 ![image](https://user-images.githubusercontent.com/101745590/236651879-60142869-0001-487b-bdce-15a0b594903b.png)
 ![image](https://user-images.githubusercontent.com/101745590/236651940-e8807dc1-b101-43c1-a26d-20cd6a276c6f.png)
 ![image](https://user-images.githubusercontent.com/101745590/236651978-4d49b339-a130-4c15-9836-54c51476daa8.png)
+
 Στο δεύτερο σκέλος μπήκε η κολώνα με το φώς και προστέθηκε το φως της γάτας στο timeline όπου αναβοσβήνει και ανάβει μόλις φτάνει 
 ![image](https://user-images.githubusercontent.com/101745590/236652100-1cf04c0e-89da-4c3f-8b20-7fc8e14d448f.png)
 ![image](https://user-images.githubusercontent.com/101745590/236652136-ceeb55d6-f588-4693-9000-950df86ac3af.png)
+
 Στο τρίτο σκέλος μπήκαν τα effects για να γίνεται το κατάλληλο blurring ανά κάμερα
 ![image](https://user-images.githubusercontent.com/101745590/236652192-bbb41bce-cd38-4872-9c12-5c4b87af6ac3.png)
 ![image](https://user-images.githubusercontent.com/101745590/236652199-93d248bc-5192-4ec9-baeb-648483d22b81.png)
+
 # Unit 7
 Στο τρίτο σκέλος , στο πρώτο κομμάτι μπήκαν οι καπνοί για την σχάρα , δεν βρήκα τη σχάρα οπότε τα τοποθέτησα στο χώρο 
 ![image](https://user-images.githubusercontent.com/101745590/236652450-fd78bdc9-b45a-4bdc-99e1-383f2cbab5e7.png)
