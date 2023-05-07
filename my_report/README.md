@@ -50,6 +50,17 @@
 Στο τρίτο σκέλος μπήκαν τα effects για να γίνεται το κατάλληλο blurring ανά κάμερα
 ![image](https://user-images.githubusercontent.com/101745590/236652192-bbb41bce-cd38-4872-9c12-5c4b87af6ac3.png)
 ![image](https://user-images.githubusercontent.com/101745590/236652199-93d248bc-5192-4ec9-baeb-648483d22b81.png)
+Στο τρίτο σκέλος , στο πρώτο κομμάτι μπήκαν οι καπνοί για την σχάρα , δεν βρήκα τη σχάρα οπότε τα τοποθέτησα στο χώρο 
+![image](https://user-images.githubusercontent.com/101745590/236652450-fd78bdc9-b45a-4bdc-99e1-383f2cbab5e7.png)
+
+Καπνός από κάδους ο οποίος είναι particle.
+![image](https://user-images.githubusercontent.com/101745590/236652409-8e6357f5-92b9-431a-bdc7-e21fdab65e7e.png)
+Για τα πυροτεχνήματα δημιουργήθηκαν όπως τα sparks στο πρώτο σκέλος με πολλές αλλαγές όμως όπως φαίνονται στο screenshot.
+![image](https://user-images.githubusercontent.com/101745590/236652485-97c17e72-14ab-4a4f-b322-dac67cdf2877.png)
+![image](https://user-images.githubusercontent.com/101745590/236652499-6c327470-754f-4100-94ef-51dc176b3968.png)
+Ακόμα , κατέβασα τέσσερις ήχους(σκύλου,γάτας,background sound και πυροτεχνημάτων από envato elements) και μπήκαν στα κατάλληλα frames στο Timeframe για να ταιριάζει στην εξέλιξη όπως φαίνεται παρακάτω. Το background sound δεν μπήκε στο timeframe καθώς μπαίνει σαν audio source.
+![image](https://user-images.githubusercontent.com/101745590/236652544-d7b14fd0-d985-49b2-b3aa-3bc5bb5fd5d8.png)
+
 
 
 
